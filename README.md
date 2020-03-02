@@ -1,2 +1,2 @@
-# Lab 6
- Repo del laboratorio #6
+# Laboratorio 5 
+ Repositorio creado para entregar el ejercicio correspondiente a el LAB 5 
